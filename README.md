@@ -1,4 +1,4 @@
-# CNN-Car-Object-Detection
+# CNN Car Object Detection
 
 ## Introduction
 Trained a Convolutional Neural Network using Pytorch, YoloV5, and Transfer Learning Techniques to be able to detect cars within an image. The model was trained using 15,000 labeled images of cars during various times of the day. The model achieved a MAP of 0.6727.
